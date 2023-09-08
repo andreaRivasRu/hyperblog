@@ -49,3 +49,6 @@ body {
     text-align: center;
     padding: 4px;
 }
+div img {
+    width: 100%;
+}
